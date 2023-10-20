@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Beach Paradise",
+        "destination_img":"../image/Sajek.png",
+        "origin": "New York",
+        "destination": "Maldives",
+        "destination_description": "Experience the ultimate tropical getaway in the beautiful Maldives. Crystal-clear waters, white sandy beaches, and vibrant marine life await you.",
+        "hotel_title": "Sunset Resort",
+        "room_details": {
+            "bedrooms": 2,
+            "guest_rooms": 1,
+            "bathrooms": 2
+        },
+        "rating": 4.8,
+        "price": "$200"
+    },
+    {
+        "id": 2,
+        "name": "Cultural Exploration",
+        "destination_img":"../image/Sreemongol.png",
+        "origin": "Paris",
+        "destination": "Tokyo",
+        "destination_description": "Immerse yourself in the rich cultural heritage of Tokyo. From ancient temples to modern skyscrapers, this city offers a unique blend of tradition and innovation.",
+        "hotel_title": "Heritage Inn",
+        "room_details": {
+            "bedrooms": 3,
+            "guest_rooms": 1,
+            "bathrooms": 2
+        },
+        "rating": 4.5,
+        "price": "$150"
+    },
+    {
+        "id": 3,
+        "name": "Mountain Adventure",
+        "destination_img":"../image/sundorbon.png",
+        "origin": "Los Angeles",
+        "destination": "Swiss Alps",
+        "destination_description": "Embark on an adrenaline-pumping adventure in the majestic Swiss Alps. Hike through picturesque trails and soak in breathtaking mountain views.",
+        "hotel_title": "Alpine Lodge",
+        "room_details": {
+            "bedrooms": 2,
+            "guest_rooms": 1,
+            "bathrooms": 2
+        },
+        "rating": 4.9,
+        "price": "$250"
+    }
+]
